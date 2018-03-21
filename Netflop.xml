@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<Netflop>
+    
+<mangas>
+       <manga id = "1">
+           
+           <titre>One Punch Man</titre>
+           <annee>2015</annee>
+           <realisateur>ONE</realisateur>
+           <synopsis>Histoire de passer le temps, Saitama est devenu un héros. Trois anneées d’un entrainement spéccial lui ont donné  un pouvoir le rendant invincible. Mais Saitama est devenu si fort qu’un seul coup de poing lui suffit à  terrasser chaque adversaire se présentant, aussi puissant soit- il. « Posséder la puissance ultime, c’est relou, en fait... ». Aujourd’hui encore, un nouvel ennemi se dresse devant ce héros blasé  qui a perdu sa motivation... et ses cheveux ! Parviendra-t-il à retrouver la patate ?</synopsis>
+       </manga>
+       
+       <manga id = "2">
+           
+           <titre>One Piece</titre>
+           <année>1999</année>
+           <realisateur>Mitsuru Shimada</realisateur>
+           <synopsis>Le capitaine Monkey D. Luffy est à la tête des Straw Hat, un groupe d'héroïques pirates. Luffy, doté de superpouvoirs obtenus grâce à des fruits magiques, désire plus que tout découvrir One Piece, un fabuleux trésor... </synopsis>
+       </manga>
+       
+       <manga id = "3">
+           <titre>Drangon_Ball_Z</titre>
+           <annee>1989</annee>
+           <realisateur>Daisuke Nishio , Takao Koyama</realisateur>
+           <synopsis>Dragon Ball Z se déroule cinq ans après le mariage de Son Goku et de Chichi, désormais parents de Son Gohan2. Raditz, un mystérieux guerrier extraterrestre, frère de Son Goku, arrive sur Terre pour retrouver Goku. Ce dernier apprend qu'il vient d'une planète de guerriers redoutables dont il ne reste plus que quatre survivants.</synopsis>
+       </manga>
+       
+       <manga id ="4">
+           <titre>Naruto</titre>
+           <annee>1999</annee>
+           <realisateur>Masashi Kishimoto</realisateur>
+           <synopsis>Il y a douze ans de cela, un terrible démon-renard dévastait le village de Konoha. Vaincu par les ninjas, l'esprit du démon fut scellé dans le corps d'un bébé : Naruto, qui a pour ambition de devenir un "Maître Hokage" afin d'être reconnu par ses pairs.</synopsis>
+       </manga>
+  </mangas>
+  
+<films>
+      <film id = "1">
+      <titre>Logan</titre>
+      <annee>2017</annee>
+      <realisateur> James Mangold </realisateur>
+      <synopsis>Dans un futur proche, un certain Logan, épuisé de fatigue, s’occupe d’un Professeur X souffrant, dans un lieu gardé secret à la frontière Mexicaine. Mais les tentatives de Logan pour se retrancher du monde et rompre avec son passé vont s’épuiser lorsqu’une jeune mutante traquée par de sombres individus va se retrouver soudainement face à lui.</synopsis>
+      </film>
+     
+      <film id = "2">
+          <titre>Matrix</titre>
+          <annee>1999</annee>
+          <realisateur>Lana Wachowski, Lilly Wachowski</realisateur>
+          <synopsis>Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber-espace. A cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui-ci l'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est-ce que la Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les defenses. Mais Morpheus est persuadé que Neo est l'Elu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents... </synopsis>
+      </film>
+     
+      <film id = "3">
+          <titre>Les_Gardiens_de_la_galaxie_2</titre>
+          <annee>2017</annee>
+          <realisateur> James Gunn </realisateur>
+          <synopsis>Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.</synopsis>
+      </film>
+     
+      <film id = "4">
+          <titre>The Circle</titre>
+          <annee>2017</annee>
+          <realisateur>James Ponsoldt</realisateur>
+          <synopsis>Les Etats-Unis, dans un futur proche. Mae est engagée chez The Circle, le groupe de nouvelles technologies et de médias sociaux le plus puissant au monde. Pour elle, c'est une opportunité en or ! Tandis qu'elle prend de plus en plus de responsabilités, le fondateur de l'entreprise, Eamon Bailey, l'encourage à participer à une expérience révolutionnaire qui bouscule les limites de la vie privée, de l'éthique et des libertés individuelles. Désormais, les choix que fait Mae dans le cadre de cette expérience impactent l'avenir de ses amis, de ses proches et de l'humanité tout entière… </synopsis>
+      </film>
+     
+  </films>
+  
+<series>
+      <serie id = "1">
+          <titre>The Defenders</titre>
+          <annee>2017</annee>
+          <realisateur>Douglas Petrie</realisateur>
+          <synopsis>
+              Un ninja aveugle. Une détective impertinente. 
+             Un ancien détenu résistant aux balles. 
+             Un milliardaire amateur de kung-fu. 
+             "Marvel’s The Defenders" suit les aventures de quatre super-héros solitaires,
+             contraints de mettre leurs problèmes personnels de côté pour combattre ensemble un groupe de criminels menaçant de détruire la ville de New York.
+          </synopsis>
+      </serie>
+     
+       <serie id = "2">
+          <titre>Stranger Things</titre>
+          <annee>2016</annee>
+          <realisateur>Matt Duffer</realisateur>
+          
+          <synopsis>
+             Un soir de novembre 1983 à Hawkins, dans l'Indiana, le jeune Will Byers, douze ans, disparaît brusquement sans laisser de traces.
+             mis à part son vélo. Plusieurs personnages vont alors tenter de le retrouver : sa mère Joyce, ses amis menés par Mike Wheeler et guidés par la mystérieuse Onze, 
+             ayant des pouvoirs psychiques, ainsi que le chef de la police Jim Hopper. 
+             Parallèlement, la ville est le théâtre de phénomènes surnaturels liés au Laboratoire national d'Hawkins, géré par le département de l'Énergie (DoE) et 
+             indirectement la Central Intelligence Agency (CIA) et dont les expériences dans le cadre du projet MKULTRA ne semblent pas étrangères à la disparition de Will.
+          </synopsis>
+      </serie>
+     
+       <serie id = "3">
+          <titre>Walking Dead</titre>
+          <annee>2002</annee>
+          <realisateur>Greg Nicotero</realisateur>
+          
+          <synopsis>
+             Dans le Kentucky, Rick Grimes, un policier, se réveille à l'hôpital après plusieurs semaines de coma provoqué par une fusillade qui a mal tourné. 
+             Il découvre que le monde, ravagé par une épidémie, est envahi par les morts-vivants. 
+             Rick ne songe qu'à une chose : retrouver sa femme Lori et son fils Carl. 
+             Il se rend chez lui mais constate qu'ils ont disparu, puis rencontre Morgan et son fils Duane, qui se terrent dans leur maison. 
+             L'homme lui explique que la seule façon de tuer les zombies est de les atteindre à la tête. 
+             Il lui indique aussi qu'il existe un camp de réfugiés aux alentours d'Atlanta...
+          </synopsis>
+      </serie>
+     
+       <serie id = "4">
+          <titre>24h Chrono</titre>
+          <annee>2002</annee>
+          <realisateur>Joel Surnow</realisateur>
+          
+          <synopsis> Lors de la première saison, Jack Bauer doit protéger le sénateur David Palmer, candidat à l'élection présidentielle américaine. 
+             La femme et la fille de Bauer sont également menacées. 
+             Les terroristes cherchent à se venger d’une opération secrète au Kosovo autorisée par Palmer et dirigée par Bauer lui-même. 
+             Cependant, un traitre a infiltré la cellule anti-terroriste, et sera prêt à tout pour échapper à Jack.  
+          </synopsis>
+      </serie>
+  </series>
+    
+</Netflop>
+
+

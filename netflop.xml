@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<netflop>
+    
+    <films>
+            <film>
+
+            <titre>Captain América : first Avenger</titre>
+            
+            <annee>2011</annee>
+            <realisateur>Joe Johnston</realisateur>
+
+               <resume>
+            Captain America: First Avenger nous plonge dans les premières années de l’univers Marvel.
+            Steve Rogers, frêle et timide, se porte volontaire pour participer à un programme expérimental,
+            qui va le transformer en un Super Soldat connu sous le nom de Captain America. 
+            Allié à Bucky Barnes et Peggy Carter, 
+            il sera confronté à la diabolique organisation HYDRA dirigée par le redoutable Red Skull. 
+               </resume>
+
+               <avis>
+               Après un début prometteur qui pose les bases de ce premiers des Avengers, 
+               le film s'enlise dans des scènes d'actions répétitives qui deviennent vite lassante à la longue. 
+               Le héros n'a d'ailleurs rien qui le fasse sortir du lot, 
+               des super héros la où le méchant caricatural à souhait arrive à être plus intéressant que ce dernier. 
+               Que cela n'empêche pas d'apprécier le spectacle aussi conventionnel et prévisible soit il, 
+               n'est pas batman ou spiderman qui veut.
+               </avis> 
+
+            </film>
+
+            <film>
+
+            <titre>Iron Man</titre>  
+            <annee> 2008 </annee>      
+            <realisateur> Jon Favreau </realisateur>
+
+            <resume>
+            Tony Stark, inventeur de génie, vendeur d'armes et playboy milliardaire, est kidnappé en Aghanistan. 
+            Forcé par ses ravisseurs de fabriquer une arme redoutable, 
+            il construit en secret une armure high-tech révolutionnaire qu'il utilise pour s'échapper. 
+            Comprenant la puissance de cette armure, 
+            il décide de l'améliorer et de l'utiliser pour faire régner la justice et protéger les innocents.     
+            </resume>
+
+                <Avis>
+                Jon Favreau est le meilleur ! Le premier de la saga Iron man est excellent. 
+                Robert Downey Jr. est parfait dans le rôle avec une mise en scène dynamique, 
+                des effets spéciaux grandioses, 
+                l'humour de Stark est irrésistible. Un véritable spectacle vous attends.     
+                </Avis>
+            </film>
+    
+    </films>
+    
+    <series>
+        
+            <serie>
+
+            <titre>The Walking Dead</titre> 
+            <annee>2010</annee>
+            <realisateur> Robert Kirkman</realisateur>  
+
+            <resume>
+            Dans le Kentucky, Rick Grimes, un policier, se réveille à l'hôpital après plusieurs semaines de coma provoqué par une fusillade qui a mal tourné. 
+            Il découvre que le monde, ravagé par une épidémie, est envahi par les morts-vivants. 
+            Rick ne songe qu'à une chose : retrouver sa femme Lori et son fils Carl. 
+            Il se rend chez lui mais constate qu'ils ont disparu, puis rencontre Morgan et son fils Duane, 
+            qui se terrent dans leur maison. L'homme lui explique que la seule façon de tuer les zombies est de les atteindre à la tête. 
+            Il lui indique aussi qu'il existe un camp de réfugiés aux alentours d'Atlanta...     
+            </resume> 
+
+               <avis>
+               J'aime beaucoup les films de zombies. 
+               Il était donc logique pour moi de me lancer un jour ou l'autre dans LA série "zombiesque", 
+               j'ai nommé "The Walking Dead" ! Cette série est vraiment viscérale, passionnante, et pleine d'adrénaline.
+               Rarement on vit film de zombie aussi réaliste que cette merveille d'AMC ! 
+               Les acteurs sont géniaux, les scénarios superbement élaborés, même chose pour les mises en scènes... Même si je lui préfère "Game of Thrones" (ma série préférée), 
+               "The Walking Dead" débute magistralement avec ces 6 premiers épisodes géniaux et sans temps-morts !    
+               </avis>            
+            </serie>
+
+            <serie>
+
+            <titre>Game of Thrones</titre>    
+            <annee>2011</annee>
+            <realisateur> George R.R. Martin</realisateur>  
+
+            <resume>
+            Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. 
+            Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie, 
+            des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. 
+            La confrérie de la Garde de Nuit, 
+            protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur, 
+            n'a plus les ressources nécessaires pour assurer la sécurité de tous. 
+            Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, 
+            complots et rivalités se jouent sur le continent pour s'emparer du Trône de Fer, 
+            le symbole du pouvoir absolu.    
+            </resume>  
+
+               <avis>
+               Basée sur la saga littéraire de G.R.R. Martin, la série Game of Thrones s'est rapidement imposée comme un mastodonte du petit écran. 
+               Dans un monde sans pitié, à une époque moyenâgeuse, de nombreux personnages tentent d'accéder au trône de fer, 
+               tandis que l'hiver arrive. 
+               A travers des épisodes passionnants, la série rend facilement accro. 
+               La technique est surprenante, alliant une réalisation irréprochable et des effets spéciaux réussis. 
+               Et n'oublions pas la B.O., composée par Ramin Djawadi, qui est tout simplement somptueuse. 
+               Game of Thrones est certainement l'une des meilleures séries de tous les temps.    
+               </avis>    
+            </serie>
+
+    </series>
+    
+</netflop>
